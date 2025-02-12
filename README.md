@@ -47,6 +47,15 @@ Para este algoritmo, a recursão adiciona novos caminhos ao fluxo de controle, a
 ### Complexidade Assintótica
 A complexidade do algoritmo de Karatsuba é O(n^log₂3) ≈ O(n^1.58), sendo mais eficiente que a multiplicação tradicional O(n²), especialmente para números grandes.
 
+### Melhor caso:
+Ocorre quando os números têm poucos dígitos e a multiplicação difeta é usada, resultando em O(1).
+
+### Médio caso:
+Na maioria dos casos, a recursao divide os números em partes menores, resultando em O (n^log₂3).
+
+### Pior caso:
+Quando os números são grandes e a recursão se aprofunda ao máximo, mantendo a complexidade O(n^log₂3), mas com maior impacto na memória e chamadas recursivas.
+
 ## Conclusão
 Este projeto demonstra como a recursão e a divisão e conquista podem otimizar operações matemáticas complexas. O algoritmo de Karatsuba é um exemplo clássico de melhoria na eficiência computacional para multiplicações de grandes números.
 
