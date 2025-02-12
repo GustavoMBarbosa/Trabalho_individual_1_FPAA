@@ -34,7 +34,7 @@ O algoritmo de Karatsuba divide os números de entrada em metades e realiza mult
    ```
 4. Insira dois números inteiros quando solicitado e visualize o resultado da multiplicação.
 
-## Análise Técnica
+## Relatório Técnico
 
 ### Complexidade Ciclomática
 A complexidade ciclomática mede a quantidade de caminhos independentes no código:
