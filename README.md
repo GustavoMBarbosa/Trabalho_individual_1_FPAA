@@ -22,7 +22,7 @@ O algoritmo de Karatsuba divide os números de entrada em metades e realiza mult
 ### Passos para Execução
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/karatsuba-multiplication.git
+   git clone https://github.com/GustavoMBarbosa/Trabalho_individual_1_FPAA.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
