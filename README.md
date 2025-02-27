@@ -40,9 +40,9 @@ O algoritmo de Karatsuba divide os números de entrada em metades e realiza mult
 - Número de nós (N): total de blocos de código (função principal e recursões).
 - Número de arestas (E): conexões entre os blocos de código.
 - Fórmula: M = E - N + 2P (onde P = 1, pois temos um único componente conectado).
-- E (arestas) = 10, N (nós) = 9, P (componentes conexos) = 1
-- M = 10 - 9 + 2(1) / M = 3
-- A complexidade ciclomática da função é 3.
+- E (arestas) = 12, N (nós) = 12, P (componentes conexos) = 1
+- M = 12 - 12 + 2(1) / M = 2
+- A complexidade ciclomática da função é 2.
 
 Para este algoritmo, a recursão adiciona novos caminhos ao fluxo de controle, aumentando sua complexidade.
 
