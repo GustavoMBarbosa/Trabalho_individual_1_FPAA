@@ -59,7 +59,7 @@ Na maioria dos casos, a recursao divide os números em partes menores, resultand
 Quando os números são grandes e a recursão se aprofunda ao máximo, mantendo a complexidade O(n^log₂3), mas com maior impacto na memória e chamadas recursivas.
 
 ## Diagrama de Fluxo
-![Diagrama de Fluxo](Diagrama_de_Fluxo.png)
+![Diagrama de Fluxo]()
 
 ## Conclusão
 Este projeto demonstra como a recursão e a divisão e conquista podem otimizar operações matemáticas complexas. O algoritmo de Karatsuba é um exemplo clássico de melhoria na eficiência computacional para multiplicações de grandes números.
